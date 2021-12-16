@@ -4,5 +4,5 @@
 ------------------------------
 Membri echipa:
 1. Paducel Alexandru-Gabriel
-2.
+2.Paraschivoiu Adriana-Teodora
 3.
