@@ -2,9 +2,9 @@
 -------------------------------
     ECHIPA NEW SPICY WINGS
 -------------------------------
- Grupa: 1089
- Seria: E
- Proiect: Nr 5(Aplicatie Single Page pentru luarea Notitelor)
+Grupa: 1089
+Seria: E
+Proiect: Nr 5(Aplicatie Single Page pentru luarea Notitelor)
 -------------------------------------------------------------
 Membri echipa:
 1. Paducel Alexandru-Gabriel
