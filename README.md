@@ -4,7 +4,7 @@
 -------------------------------
 Grupa: 1089
 Seria: E
-Proiect: Nr 5(Aplicatie One Page pentru luarea Notitelor)
+Proiect: Nr 5(Aplicatie Single Page pentru luarea Notitelor)
 
 Membri echipa:
 1. Paducel Alexandru-Gabriel
