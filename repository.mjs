@@ -41,7 +41,11 @@ const Notite = sequelize.define('notite', {
         type: Sequelize.STRING,
     },
 
-    tip: {
+    tip: { // tip = 's' sau 'c'
+        type: Sequelize.STRING,
+        allowNull: false
+    },
+    date: {
         type: Sequelize.STRING,
         allowNull: false
     },

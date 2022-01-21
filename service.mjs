@@ -83,7 +83,7 @@ async function getNotite(request, response) {
             where: request.query.usersId
                 ? { usersId: { [Sequelize.Op.eq]: request.query.usersId } }
                 : undefined,
-            attributes: ['id', 'title', 'continut', 'usersId', 'disciplineId', 'tip']
+            attributes: ['id', 'title', 'continut', 'usersId', 'disciplineId', 'tip', 'date']
         });
         if (notite.length > 0) {
             response.status(200).json(notite);
